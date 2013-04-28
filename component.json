@@ -1,0 +1,20 @@
+{
+	"name": "css3-translate",
+	"repo": "mattcg/css3-translate",
+	"description": "A tiny, functional CSS3 translation transforms API that shims browser-specific APIs.",
+	"version": "0.0.1",
+	"keywords": [
+		"css3",
+		"css",
+		"translate",
+		"transform",
+		"shim",
+		"polyfill"
+	],
+	"dependencies": {},
+	"development": {},
+	"license": "MIT",
+	"scripts": [
+		"lib/translate.js"
+	]
+}
