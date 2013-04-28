@@ -1,6 +1,6 @@
 # CSS3 translate #
 
-A tiny, functional CSS3 translation transforms API for JavaScript. Supports all browsers supporting CSS3 Transforms. Check out the [support grid](http://caniuse.com/transforms2d).
+A tiny (900 bytes minified, 470 bytes gziped), functional CSS3 translation transforms API for JavaScript. Supports all browsers supporting CSS3 Transforms. Check out the [support grid](http://caniuse.com/transforms2d).
 
 3D transforms - `translate.z` and `translate.d3` - have a [separate support grid](http://caniuse.com/transforms3d).
 
