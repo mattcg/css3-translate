@@ -51,7 +51,7 @@ Apply a `translateY(ty)` CSS transform to the given element, moving the element 
 
 Apply a `translateZ(tz)` CSS transform to the given element, moving the element along the z-axis of the 3D space.
 
-### translate.d3(tx, ty, tz) or translate['3d'](tx, ty, tz) ###
+### translate.d3(tx, ty, tz) or translate\['3d'\](tx, ty, tz) ###
 
 Apply a `translate3d(tx, ty, tz)` CSS transform to the given element, moving the position of the element in the 3D space.
 
