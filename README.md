@@ -13,23 +13,7 @@ make
 cp build/translate.min.js /path/to/my-project/js/
 ```
 
-Alternatively, use [Component](https://github.com/component/component) to install to your project.
-
-```bash
-component install css3-translate
-```
-
-You can also use [Bower](http://bower.io/).
-
-```bash
-bower install css3-translate
-```
-
-And [npm](https://npmjs.org/).
-
-```bash
-npm install css3-translate
-```
+Alternatively, use [Component](https://github.com/component/component), [Bower](http://bower.io/) or [npm](https://npmjs.org/) to install to your project as a dependency.
 
 ## API ##
 
