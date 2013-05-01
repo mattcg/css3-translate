@@ -4,11 +4,11 @@
 	"description": "A tiny, functional CSS3 translation transforms API that shims browser-specific APIs.",
 	"main": "lib/translate.js",
 	"implements": ["CommonJS/Modules/1.0"],
-	"homepage": "https://github.com/mattcg/translate",
+	"homepage": "https://github.com/mattcg/css3-translate",
 	"repositories": [
 		{
 			"type": "git",
-			"url": "git://github.com/mattcg/translate.git"
+			"url": "git://github.com/mattcg/css3-translate.git"
 		}
 	],
 	"contributors": [
